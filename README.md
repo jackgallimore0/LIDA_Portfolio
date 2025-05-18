@@ -10,6 +10,7 @@ Sort range hydro bonds.py
 Diss R analysis.R  
 ↳ Loads hydrogen bond data and performs statistical analysis and visualization for dissertation
 
+----------------------
 Data Mining Assignment  
 Clustering algorithms implemented from scratch in Python  
 Scored 100% in the coding section of the assignment
@@ -26,6 +27,7 @@ BisectingKMeans.py
 KMeansSynthetic.py  
 ↳ Synthetic data generation and testing for clustering algorithms
 
+----------------------
 Summer Industrial Project  
 Compared a Recurrent Neural Network model to the Lee-Carter model using real Ghanaian insurance data.
 
